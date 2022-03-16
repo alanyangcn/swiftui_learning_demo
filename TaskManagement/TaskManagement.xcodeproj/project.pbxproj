@@ -109,17 +109,9 @@
 		A1F35618278FB5BB0047F53A /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				A1F35619278FB5C20047F53A /* New Group */,
 				A1F3561A278FB5CC0047F53A /* TaskViewModel.swift */,
 			);
 			path = ViewModel;
-			sourceTree = "<group>";
-		};
-		A1F35619278FB5C20047F53A /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
